@@ -167,7 +167,7 @@ Tention.onclick = function(){
             let mm = m * 4 +1;
 
             if( mm >= 1 && clabsat.value !=''){
-                hclabs.innerHTML = mm;
+                hclabs.innerHTML = Math.ceil(mm);
             }
 
         }
@@ -187,6 +187,7 @@ Tention.onclick = function(){
 //     mans = (lod1.value / lod2.value  * lod3.value / lod4.value);
 //     hh1.innerHTML = mans + ' Ton';
 // }
+
 
 
 
