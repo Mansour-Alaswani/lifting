@@ -47,6 +47,7 @@ Tention.onclick = function(){
     home.style.display = 'none';
     Masour.style.display = 'none';
     emee.style.display = 'none';
+    clbs.style.display = 'none';
 }
 
 /////////////////Tantion///////////////////
@@ -186,6 +187,7 @@ Tention.onclick = function(){
 //     mans = (lod1.value / lod2.value  * lod3.value / lod4.value);
 //     hh1.innerHTML = mans + ' Ton';
 // }
+
 
 
 
