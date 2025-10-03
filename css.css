@@ -192,9 +192,15 @@
         }
 
         .clbs{
-            display: none;
-            background: rgb(220, 186, 51);
+            margin-top: 30px;
+            padding-top: 50px;
             text-align: center;
+            height: 400px;
+            align-items: center;
+            background:  #61d1f0c4;
+            border-radius: 50px;
+            display: none;
+            font-size: 25px;
         }
 
         .bbt{
@@ -222,5 +228,6 @@
 
         .d4:hover{
             font-size: 22px;
+
 
         }
